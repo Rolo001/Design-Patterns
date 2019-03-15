@@ -1,0 +1,9 @@
+c:\users\joloroxas\documents\visual studio 2015\Projects\DecoratorApplication\Decorator Pat Testing\bin\Debug\Decorator Pat Testing.exe.config
+c:\users\joloroxas\documents\visual studio 2015\Projects\DecoratorApplication\Decorator Pat Testing\bin\Debug\Decorator Pat Testing.exe
+c:\users\joloroxas\documents\visual studio 2015\Projects\DecoratorApplication\Decorator Pat Testing\bin\Debug\Decorator Pat Testing.pdb
+c:\users\joloroxas\documents\visual studio 2015\Projects\DecoratorApplication\Decorator Pat Testing\obj\Debug\Decorator Pat Testing.exe
+c:\users\joloroxas\documents\visual studio 2015\Projects\DecoratorApplication\Decorator Pat Testing\obj\Debug\Decorator Pat Testing.pdb
+c:\users\joloroxas\documents\visual studio 2015\Projects\DecoratorApplication\Decorator Pat Testing\obj\Debug\Decorator Pat Testing.csprojResolveAssemblyReference.cache
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DecoratorApplication\Decorator Pat Testing\bin\Debug\Decorator Pat Testing.exe.config
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DecoratorApplication\Decorator Pat Testing\obj\Debug\Decorator Pat Testing.exe
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DecoratorApplication\Decorator Pat Testing\obj\Debug\Decorator Pat Testing.pdb

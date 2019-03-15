@@ -1,0 +1,6 @@
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DesignPatterns\DecoratorDesign\bin\Debug\DecoratorDesign.exe.config
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DesignPatterns\DecoratorDesign\bin\Debug\DecoratorDesign.exe
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DesignPatterns\DecoratorDesign\bin\Debug\DecoratorDesign.pdb
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DesignPatterns\DecoratorDesign\obj\Debug\DecoratorDesign.csprojResolveAssemblyReference.cache
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DesignPatterns\DecoratorDesign\obj\Debug\DecoratorDesign.exe
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DesignPatterns\DecoratorDesign\obj\Debug\DecoratorDesign.pdb

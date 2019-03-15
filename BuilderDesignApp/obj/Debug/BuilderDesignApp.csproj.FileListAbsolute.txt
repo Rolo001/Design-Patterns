@@ -1,0 +1,11 @@
+C:\Users\JoloRoxas\Source\Repos\DecoApp\DesignPatterns\BuilderDesignApp\bin\Debug\BuilderDesignApp.exe.config
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\DesignPatterns\BuilderDesignApp\bin\Debug\BuilderDesignApp.exe.config
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\BuilderDesignApp\bin\Debug\BuilderDesignApp.exe.config
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\BuilderDesignApp\bin\Debug\BuilderDesignApp.exe
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\BuilderDesignApp\bin\Debug\BuilderDesignApp.pdb
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\BuilderDesignApp\obj\Debug\BuilderDesignApp.exe
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\BuilderDesignApp\obj\Debug\BuilderDesignApp.pdb
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\BuilderDesignApp\obj\Debug\BuilderDesignApp.csprojResolveAssemblyReference.cache
+C:\Users\JoloRoxas\Documents\Visual Studio 2015\Projects\DesignPatterns\BuilderDesignApp\bin\Debug\BuilderDesignApp.exe.config
+C:\Users\JoloRoxas\Documents\Visual Studio 2015\Projects\DesignPatterns\BuilderDesignApp\obj\Debug\BuilderDesignApp.exe
+C:\Users\JoloRoxas\Documents\Visual Studio 2015\Projects\DesignPatterns\BuilderDesignApp\obj\Debug\BuilderDesignApp.pdb

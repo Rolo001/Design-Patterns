@@ -1,0 +1,12 @@
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\StrategyDesignApp\bin\Debug\StrategyDesignApp.exe.config
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\StrategyDesignApp\bin\Debug\StrategyDesignApp.exe
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\StrategyDesignApp\bin\Debug\StrategyDesignApp.pdb
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\StrategyDesignApp\obj\Debug\StrategyDesignApp.csprojResolveAssemblyReference.cache
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\StrategyDesignApp\obj\Debug\StrategyDesignApp.exe
+C:\Users\JoloRoxas\Source\Repos\DesignPatterns\StrategyDesignApp\obj\Debug\StrategyDesignApp.pdb
+C:\Users\JoloRoxas\Documents\Visual Studio 2015\Projects\DesignPatterns\StrategyDesignApp\bin\Debug\StrategyDesignApp.exe.config
+C:\Users\JoloRoxas\Documents\Visual Studio 2015\Projects\DesignPatterns\StrategyDesignApp\bin\Debug\StrategyDesignApp.exe
+C:\Users\JoloRoxas\Documents\Visual Studio 2015\Projects\DesignPatterns\StrategyDesignApp\bin\Debug\StrategyDesignApp.pdb
+C:\Users\JoloRoxas\Documents\Visual Studio 2015\Projects\DesignPatterns\StrategyDesignApp\obj\Debug\StrategyDesignApp.csprojResolveAssemblyReference.cache
+C:\Users\JoloRoxas\Documents\Visual Studio 2015\Projects\DesignPatterns\StrategyDesignApp\obj\Debug\StrategyDesignApp.exe
+C:\Users\JoloRoxas\Documents\Visual Studio 2015\Projects\DesignPatterns\StrategyDesignApp\obj\Debug\StrategyDesignApp.pdb
